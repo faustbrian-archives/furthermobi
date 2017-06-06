@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/furthermobi-php-client",
     "description": "A FurtherMobi Client for PHP",
-    "keywords": ["api", "Rulerr", "Rulerr-FurtherMobi", "FurtherMobi", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "furthermobi", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
