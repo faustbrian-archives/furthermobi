@@ -1,5 +1,10 @@
 # FurtherMobi PHP Client
 
+[![Build Status](https://img.shields.io/travis/faustbrian/FurtherMobi-PHP-Client/master.svg?style=flat-square)](https://travis-ci.org/faustbrian/FurtherMobi-PHP-Client)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/faustbrian/furthermobi-php-client.svg?style=flat-square)]()
+[![Latest Version](https://img.shields.io/github/release/faustbrian/FurtherMobi-PHP-Client.svg?style=flat-square)](https://github.com/faustbrian/FurtherMobi-PHP-Client/releases)
+[![License](https://img.shields.io/packagist/l/faustbrian/FurtherMobi-PHP-Client.svg?style=flat-square)](https://packagist.org/packages/faustbrian/FurtherMobi-PHP-Client)
+
 ## Installation
 
 Require this package, with [Composer](https://getcomposer.org/), in the root directory of your project.
@@ -27,7 +32,7 @@ $ phpunit
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to Brian Faust at hello@brianfaust.me. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to hello@brianfaust.me. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 
